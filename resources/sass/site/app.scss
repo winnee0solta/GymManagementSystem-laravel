@@ -1,0 +1,19 @@
+@import '~daemonite-material/css/material.min.css';
+
+
+//variables
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+$font_Roboto_Condensed: 'Roboto Condensed',
+sans-serif;
+$font_Pacifico: 'Pacifico',
+cursive;
+
+
+@import 'home';
+@import 'login';
+
+
